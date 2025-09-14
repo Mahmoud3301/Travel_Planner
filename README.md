@@ -19,7 +19,7 @@
 ## ✨ Features
 
 - 🎤 **Voice-to-Text Input**
-  - Powered by **OpenAI Whisper / SpeechRecognition API**.
+  - Powered by **GoogleAPi/ SpeechRecognition API**.
   - Multilingual (English, Arabic, +100 more).
   - Real-time transcription integrated with the chat box.
 

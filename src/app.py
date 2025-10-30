@@ -1,6 +1,4 @@
 # app.py (stateless, one-shot Travel Planner Generator)
-%%writefile app.py
-# app.py (stateless, one-shot Travel Planner Generator)
 import streamlit as st
 import torch
 import faiss

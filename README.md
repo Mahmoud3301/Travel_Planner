@@ -16,6 +16,11 @@
 **👉 [Watch the demo on Google Drive](https://drive.google.com/drive/folders/1UDbOqPE_RFlPLKKdtfu6Qw3gjxWb5LEO?usp=sharing)**
 ---
 
+
+## Note-Book Colab
+**👉 [Colab](https://colab.research.google.com/drive/1elbaJdaQBlaFkHz_9r_CBugavxag9AcP?usp=sharing)**
+---
+
 ## ✨ Features
 
 - 🎤 **Voice-to-Text Input**

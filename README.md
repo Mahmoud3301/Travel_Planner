@@ -35,7 +35,7 @@
 
 - 💻 **UI/UX**
   - Built with **Streamlit**.
-  - **ChatGPT-style interface** with text box + mic icon.
+  - **One-Shot-style interface** with text box + mic icon.
   - Recording bar slides in when mic is active.
   - Responses shown with retrieved context side-by-side.
 
@@ -97,5 +97,4 @@ Mohamed Maher
 Mahmoud Saeed 
 Amr Saeed 
 Abdelrahman Mohamed Ali 
-Ezz Eldin Saraya
 For AI/NLP learning & experimentation.

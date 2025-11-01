@@ -43,6 +43,10 @@
   - another_model: **HuggingFaceH4/zephyr-7b-beta**.
   - Fine-tuned on the **[OSU NLP TravelPlanner dataset](https://huggingface.co/datasets/osunlp/TravelPlanner)**.
   - Supports few-shot prompting for richer suggestions.
+ 
+- 🤖 **LLM Core another model**
+  - another_model: **HuggingFaceH4/zephyr-7b-beta**.
+  - RAG (Retrieval-Augmented Generation)
 
 - 💻 **UI/UX**
   - Built with **Streamlit**.

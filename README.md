@@ -17,8 +17,12 @@
 ---
 
 
-## Note-Book Colab
+## Note-Book1 Colab
 **👉 [Colab](https://colab.research.google.com/drive/1elbaJdaQBlaFkHz_9r_CBugavxag9AcP?usp=sharing)**
+---
+
+## Note-Book2 Colab
+**👉 [Colab](https://colab.research.google.com/drive/172EMHjNXYVbNFh88my7w87XKpvJyIQBe?usp=sharing)**
 ---
 
 ## ✨ Features

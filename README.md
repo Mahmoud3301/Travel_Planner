@@ -1,7 +1,7 @@
 # 🌍 TravelPlanner AI — Voice-Enabled RAG Chatbot
 
 ![TravelPlanner AI](data/ss_1.png)
-![TravelPlanner AI](data/ss_2.png)
+![TravelPlanner AI](data/ss_2.jpg)
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Voice%20Assistant-green?logo=streamlit)]()
 [![HuggingFace Dataset](https://img.shields.io/badge/Dataset-TravelPlanner-orange?logo=huggingface)]()

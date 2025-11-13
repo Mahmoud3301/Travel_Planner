@@ -111,5 +111,6 @@ Developed by
 Mohamed Maher 
 Mahmoud Saeed 
 Amr Saeed 
-Abdelrahman Mohamed Ali 
+Abdelrahman Mohamed Ali
+Mina Saher 
 For AI/NLP learning & experimentation.
